@@ -114,4 +114,5 @@ privacy@bookshelf.wiki
 
 ---
 
+**Version:** 1
 **Effective Date:** 22 Mar 2026
