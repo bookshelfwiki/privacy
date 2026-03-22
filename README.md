@@ -22,4 +22,4 @@ Each policy reflects the actual behavior of the respective app version, includin
 
 For any questions regarding these policies, please contact:
 
-[your@email.com](mailto:privacy@bookshelf.wiki)
+[privacy@bookshelf.wiki](mailto:privacy@bookshelf.wiki)
