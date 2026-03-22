@@ -6,8 +6,8 @@ The policies are organized by platform, as different platforms rely on different
 
 ## Structure
 
-* `/android` – Privacy policy for the Android version of the app (Google Play)
-* `/ios` – Privacy policy for the iOS version of the app (App Store)
+* branch `android` – Privacy policy for the Android version of the app (Google Play)
+* branch `ios` – Privacy policy for the iOS version of the app (App Store)
 
 Each policy reflects the actual behavior of the respective app version, including any platform-specific dependencies.
 
